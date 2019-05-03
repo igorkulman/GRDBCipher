@@ -1,0 +1,6 @@
+framework module Pods_GRDBCipher {
+  umbrella header "Pods-GRDBCipher-umbrella.h"
+
+  export *
+  module * { export * }
+}
